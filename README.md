@@ -37,7 +37,7 @@
     i. Basic commands for navigating the file system and managing files and directories
     ii. Advanced commands for system administration and troubleshooting
     iii. Tips for using the command line efficiently
-    e. Helpful tips for using Linux
+    e. Extra
 
 Disclaimer: This guide is meant to provide information and support for those interested in using open source and Linux software. While we strive to present accurate and unbiased information, it is possible that our guide may contain personal opinions or biases. We encourage readers to investigate and consider all options and sources before making any decisions. The use of open source or proprietary software will depend on the specific needs and preferences of the individual or business.
 
@@ -274,6 +274,13 @@ Here are a few helpful tips to refresh your mind as you get started with Linux:
 
 ### Tips for using the command line efficiently
 
+# Extra Extra Extra
+
+## Useful Commands
+
+## Dangerous Commands
+
+sudo rm -rf /*
 
 # References
 
