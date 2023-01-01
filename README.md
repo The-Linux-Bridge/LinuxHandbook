@@ -39,6 +39,8 @@
     iii. Tips for using the command line efficiently
     e. Helpful tips for using Linux
 
+Disclaimer: This guide is meant to provide information and support for those interested in using open source and Linux software. While we strive to present accurate and unbiased information, it is possible that our guide may contain personal opinions or biases. We encourage readers to investigate and consider all options and sources before making any decisions. The use of open source or proprietary software will depend on the specific needs and preferences of the individual or business.
+
 # Introduction to Linux
 
 ## What is Linux?
@@ -65,8 +67,6 @@ There are many different Linux distributions available, each with its own unique
 - Community support: The Linux community is active and supportive, with forums and online resources available to help users troubleshoot issues and learn about new features and capabilities.
 
 ## History of Linux
-
-## History of Linux and its Development
 
 Linux is a free and open source operating system that was first developed in the early 1990s by Linus Torvalds, a Finnish computer science student. Torvalds created Linux as a way to experiment with operating system development and to create a system that was more flexible and adaptable than the proprietary systems that were available at the time.
 
@@ -204,4 +204,103 @@ As a new Linux user, there are a few tips and tricks that can help make your tra
 
 - Use a backup system to protect your data. It's always a good idea to have a backup plan in case something goes wrong with your system.
 
-More Tomorrow :) yawn
+# Post-Installation
+
+Now that you have successfully installed Linux on your computer, there are a few more steps you can take to customize your system and get it set up to your liking. The following will be looked over for several popular desktop environments (Xfce, KDE, GNOME, MATE)
+
+## Customization
+
+One of the benefits of using Linux is the ability to customize the look and feel of your desktop environment. You can choose from a variety of themes, icons, and other visual elements to create a workspace that is uniquely yours.
+
+## Configuring Network and Security
+
+Setting up your network and securing your system are important steps to take after installing Linux. You'll want to make sure you have a stable internet connection and that your system is protected from potential threats.
+
+## Installing and Updating Applications
+
+Linux has a vast repository of applications available for installation, many of which are open source and free to use. You can use your distribution's package manager to easily install and update applications on your system.
+
+## Using the Command Line
+
+The command line is a powerful tool that allows you to perform a wide range of tasks on your Linux system. While it may seem intimidating at first, learning to use the command line can greatly increase your productivity and allow you to do things that are not possible through a graphical interface.
+
+## Helpful Tips
+
+Here are a few helpful tips to refresh your mind as you get started with Linux:
+
+- Keep your system up to date by regularly running system updates through your package manager.
+
+- Back up your data regularly to ensure that you don't lose important files in the event of a system failure.
+
+- Experiment with different applications and configurations to find the setup that works best for you.
+
+- Don't be afraid to ask for help if you get stuck or have questions. There are many online communities and forums dedicated to Linux where you can find answers and guidance from experienced users.
+
+# Post-Installation (detailed)
+
+## Customizing the Desktop Environment
+
+### Changing the wallpaper, theme, and icons
+
+### Adding and removing applications from the panel and dock
+
+### Changing the wallpaper, theme, and icons
+
+### Adding and removing applications from the panel and dock
+
+## Configuring network and security settings
+
+### Connecting to a Wi-Fi network
+
+### Setting up a VPN
+
+### Enabling firewall and antivirus protection
+
+### Securing your Linux device and protecting your data
+
+## Installing and updating applications
+
+### Using the software center or package manager
+
+### Installing applications from source or via a .deb file
+
+### Finding and installing open source alternatives to proprietary software
+
+## Using the command line
+
+### Basic commands for navigating the file system and managing files and directories
+
+### Advanced commands for system administration and troubleshooting
+
+### Tips for using the command line efficiently
+
+
+# References
+
+Here are some of some of the references used to compile this handbook/guide. Feel free to research any of the topics on your own and expand your knowledge even further!
+
+## Introduction to Linux
+
+https://www.linux.com/what-is-linux/ (great read)
+https://distrowatch.com/dwres.php?resource=glossary
+https://www.digitalocean.com/community/tutorials/understanding-open-source-software-licenses
+https://linuxhint.com/history-of-linux/
+https://scribe.rip/linux-overview-basics-2c460a8ece1b
+https://www.makeuseof.com/tag/made-linux-free/
+https://learnlinuxandlibreoffice.org/2-linux-to-the-rescue/2-1-a-brief-history-of-linux-operating-systems
+https://www.mygreatlearning.com/blog/linux-tutorial/
+
+## Open Source
+
+https://opensource.com/resources/what-open-source
+https://www.fiberopticshare.com/open-source-vs-proprietary-software-better.html
+https://www.acquia.com/blog/4-common-myths-about-open-source-technology
+https://www.educba.com/open-source-software/
+https://opensource.com/education/12/7/clearing-open-source-misconceptions
+https://laptrinhx.com/is-open-source-the-future-3195052065/
+https://www.altexsoft.com/blog/engineering/how-to-use-open-source-software-features-main-software-types-and-selection-advice/
+https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the
+https://open-source.gbdirect.co.uk/migration/benefit.html
+https://www.freecodecamp.org/news/what-is-open-source-software/
+https://learningpool.com/facts-and-myths-about-open-source-software/
+
