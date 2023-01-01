@@ -204,4 +204,4 @@ As a new Linux user, there are a few tips and tricks that can help make your tra
 
 - Use a backup system to protect your data. It's always a good idea to have a backup plan in case something goes wrong with your system.
 
-More Tomorrow :) yawnn
+More Tomorrow :) yawn
