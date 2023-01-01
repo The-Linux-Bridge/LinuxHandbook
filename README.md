@@ -274,7 +274,7 @@ Here are a few helpful tips to refresh your mind as you get started with Linux:
 
 ### Tips for using the command line efficiently
 
-# Extra Extra Extra
+# Extra Information
 
 ## Useful Commands
 
