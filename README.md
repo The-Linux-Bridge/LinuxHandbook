@@ -282,25 +282,42 @@ Here are some of some of the references used to compile this handbook/guide. Fee
 ## Introduction to Linux
 
 https://www.linux.com/what-is-linux/ (great read)
+
 https://distrowatch.com/dwres.php?resource=glossary
+
 https://www.digitalocean.com/community/tutorials/understanding-open-source-software-licenses
+
 https://linuxhint.com/history-of-linux/
+
 https://scribe.rip/linux-overview-basics-2c460a8ece1b
+
 https://www.makeuseof.com/tag/made-linux-free/
+
 https://learnlinuxandlibreoffice.org/2-linux-to-the-rescue/2-1-a-brief-history-of-linux-operating-systems
+
 https://www.mygreatlearning.com/blog/linux-tutorial/
 
 ## Open Source
 
 https://opensource.com/resources/what-open-source
+
 https://www.fiberopticshare.com/open-source-vs-proprietary-software-better.html
+
 https://www.acquia.com/blog/4-common-myths-about-open-source-technology
+
 https://www.educba.com/open-source-software/
+
 https://opensource.com/education/12/7/clearing-open-source-misconceptions
+
 https://laptrinhx.com/is-open-source-the-future-3195052065/
+
 https://www.altexsoft.com/blog/engineering/how-to-use-open-source-software-features-main-software-types-and-selection-advice/
+
 https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the
+
 https://open-source.gbdirect.co.uk/migration/benefit.html
+
 https://www.freecodecamp.org/news/what-is-open-source-software/
+
 https://learningpool.com/facts-and-myths-about-open-source-software/
 
