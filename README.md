@@ -203,5 +203,3 @@ As a new Linux user, there are a few tips and tricks that can help make your tra
 - Explore the wealth of open source software available. There are many high-quality alternatives to proprietary software, and you may be surprised at how well they meet your needs.
 
 - Use a backup system to protect your data. It's always a good idea to have a backup plan in case something goes wrong with your system.
-
-test
